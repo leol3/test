@@ -10,6 +10,7 @@ Welcome to myblog's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   helloworld
    test/test.rst
 
 Indices and tables
